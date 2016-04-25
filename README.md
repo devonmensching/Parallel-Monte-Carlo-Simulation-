@@ -1,2 +1,2 @@
 # Parallel-Monte-Carlo-Simulation-
-This project was an assignment for my Operating Systems course (CSC438). The program calculates the value of pi by simulating the user randomly throwing darts at a dartboard.
+This project was an assignment for my Operating Systems course (CSC438). The program calculates the value of pi by simulating the user randomly throwing darts at a dartboard. The x and y coordinates for each dart are set by a random number genartor. Then using the number of darts that landed on the board the program calculates each game's value of pi. Multiply games are run in parallel to cacluated the average value of pi for all games. This was an individual project, and we were given one week to do it.
